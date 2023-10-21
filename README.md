@@ -20,13 +20,16 @@
 - Отказов от участия явно стало меньше.
 - Карта с точками продаж нашей компании и конкурентов, что позволило наглядно увидеть за кем закреплено, большее количество точек. Более точная аналитика с картой была представлена в другом отчете, сделанном в Power BI.
 
-- Дашборд размещения тендеров:
-    ![image](https://github.com/DAYT-43/-/assets/80617386/60aa9fa8-54c3-4f6d-a9a8-d5ed32dc81ab)
+- Дашборд размещения тендеров: [Дашборд в Data Lens](https://datalens.yandex/sfa4nmmth5gqj)
+  ![Untitled (13)](https://github.com/DAYT-43/Analysis-of-tender-procedures/assets/80617386/0ab3be29-1f05-476e-9494-86d9319430a6)
 
     
-- Дашборд - проигрыши, отклонения, отказы
-    ![image](https://github.com/DAYT-43/-/assets/80617386/3436bdf3-ab14-4943-b349-8f2d77e1c780)
+- Дашборд - проигрыши, отклонения, отказы: [Дашборд в Data Lens](https://datalens.yandex/qdm2yvyju6pih)
+  ![Untitled (12)](https://github.com/DAYT-43/Analysis-of-tender-procedures/assets/80617386/1fa73ace-d589-4d74-8705-8d7c22389823)
+
 
     
-- Дашборд с картой победителей
-  ![image](https://github.com/DAYT-43/-/assets/80617386/4cee5cc0-3107-49ef-94aa-9e691f220c49)
+- Дашборд с картой победителей: [Дашборд в Data Lens](https://datalens.yandex/aeztsyu0oe3iz)
+  ![Untitled (11)](https://github.com/DAYT-43/Analysis-of-tender-procedures/assets/80617386/beec783d-3928-4640-b132-79b328091d9a)
+
+
